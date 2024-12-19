@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DBMS
-=======
 ## DBMS
 #### DB(Database)
     데이터가 모여 있는 기지.
@@ -436,4 +433,3 @@ Table A(Student, Member, User, People)	Table B(Order, Delivery)
     - 문자
       char(m): 고정 길이 문자열(0~255)
       varchar(m): 가변 길이 문자열(0~65535)
->>>>>>> master
